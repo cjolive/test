@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.capgemini.prices.PriceControllerTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.084 s <<< FAILURE! - in com.capgemini.prices.PriceControllerTest
+testGetPriceForCurrentDate  Time elapsed: 0.034 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <0.1035> but was: <0.11069999999999999>
+	at com.capgemini.prices.PriceControllerTest.testGetPriceForCurrentDate(PriceControllerTest.java:28)
+
